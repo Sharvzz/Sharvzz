@@ -1,18 +1,27 @@
-#  About Me:
-Hi, I’m Sharvesh, a passionate Computer Science and Business Systems (CSBS) student and an aspiring Full Stack Developer.<br>
-I love building real-world projects that combine technology + problem solving to make life easier.<br>
-Skilled in Java, Python, C, and JavaScript, with hands-on experience in React, Spring Boot, MySQL, and the MERN stack.<br>
-Currently learning Backend Development, diving deeper into Java Collections & DSA, and exploring AI/ML.<br>
-I enjoy challenging myself with competitive programming and creative projects like FinTrack (personal finance tracker) and SP-clothing (e-commerce website).<br>
-My goal is to become a versatile software engineer capable of solving impactful problems and contributing to innovative products.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=SHARVESH+L" alt="Sharvesh L"/>
+</p>
 
-## Socials:
+### Hi, I’m Sharvesh 👋
+A passionate **Computer Science and Business Systems (CSBS) student** and aspiring **Full Stack Developer**.  
+I love building real-world projects that combine **technology + problem solving** to make life easier.  
+
+Skilled in **Java, Python, C, JavaScript**, with hands-on experience in **React, Spring Boot, MySQL, and MERN stack**.  
+Currently exploring **Backend Development, Java Collections & DSA**, and **AI/ML**.  
+
+I enjoy **competitive programming** and creative projects like **FinTrack** (personal finance tracker) and **SP-clothing** (e-commerce website).  
+
+---
+
+### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharvesh-l) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loganathansharvesh14@gmail.com) 
 
-#  Tech Stack
+---
 
-##  Programming Languages
+### 💻 Tech Stack
+
+#### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
@@ -20,13 +29,13 @@ My goal is to become a versatile software engineer capable of solving impactful 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 
-##  Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
-##  Backend
+#### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) 
@@ -36,26 +45,30 @@ My goal is to become a versatile software engineer capable of solving impactful 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
-##  Databases
+#### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
 
-##  Others / Tools
+#### Others / Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-#  GitHub Stats:
+---
+
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sharvzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sharvzz&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharvzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-##  GitHub Trophies
+---
+
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sharvzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###  Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-###  Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sharvzz&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
