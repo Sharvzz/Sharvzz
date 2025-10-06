@@ -1,7 +1,8 @@
 ### Hi, I’m 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=SHARVESH+L" alt="Sharvesh L"/>
-</p>
+
+
+
+
 
 A passionate **Computer Science and Business Systems (CSBS) student** and aspiring **Full Stack Developer**.  
 I love building real-world projects that combine **technology + problem solving** to make life easier.  
