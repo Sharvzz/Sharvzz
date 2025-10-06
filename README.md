@@ -56,13 +56,48 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 ---
-### 📊 Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/sharveshl?theme=dark&font=Caladea)
+### 📊 My Coding Stats
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sharvzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sharvzz&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharvzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td align="center">
+      LeetCode
+      <br/>
+      <img src="https://leetcard.jacoblin.cool/sharveshl?theme=dark&font=Caladea" alt="LeetCode Stats" />
+    </td>
+    <td align="center">
+      GitHub
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sharvzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      GitHub Streak
+      <br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Sharvzz&theme=monokai&hide_border=false" alt="GitHub Streak Stats" />
+    </td>
+    <td align="center">
+      Top Languages
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharvzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      GitHub Trophies
+      <br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=Sharvzz&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    </td>
+    <td align="center">
+      Random Dev Quote
+      <br/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
