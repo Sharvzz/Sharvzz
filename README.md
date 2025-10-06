@@ -56,6 +56,8 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 ---
+### 📊 Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/sharveshl?theme=dark&font=Caladea)
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sharvzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
