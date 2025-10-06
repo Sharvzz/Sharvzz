@@ -2,6 +2,7 @@
 
 
 
+![Sharvesh L Banner](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Sharvesh%20L&textBg=false&fontAlign=50&animation=twinkling)
 
 
 A passionate **Computer Science and Business Systems (CSBS) student** and aspiring **Full Stack Developer**.  
